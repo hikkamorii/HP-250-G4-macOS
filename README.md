@@ -23,7 +23,7 @@ Specs
 
 **RAM:** 4GB DDR3L *(Hopefully I'm gonna upgrade it soon)*
 
-**Audio:** Realtek ALC286
+**Audio:** Realtek ALC282
 
 **BIOS:** Insyde UEFI, vF.24
 
