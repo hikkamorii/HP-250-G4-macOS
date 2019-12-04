@@ -54,7 +54,7 @@ Problems
 
 Untested
 =======
-* VGA. Probably not working.
+*  ~~VGA. Probably not working.~~ Working.
 * Long-term sleep. Tested for about 30 hours.
 
 &nbsp;
@@ -74,6 +74,7 @@ List of Patches and kexts
 * VodooHDA
 * VoodooPS2Controller
 * WhateverGreen
+* OsxAptioFix3Drv.efi needs to be replaced with OsxAptioFixDrv.efi or you will get instant restart when trying to boot.
 
 [All of the stuff listed above can be found there.](https://github.com/RehabMan/OS-X-Clover-Laptop-Config)
 
