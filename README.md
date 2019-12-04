@@ -1,20 +1,34 @@
+HP 250 G4 (Haswell) Hackintoshing
+==================================
+
+<img src="https://raw.githubusercontent.com/hikkamorii/HP-250-G4-macOS/master/System.png" height="300px">
+
 So I've decided to install macOS Mojave on my laptop. I wasn't hoping for much success, but I've managed to create somewhat working config. There is still room for improvement, but for now I'm happy, and I'm glad to share my success story with you. 
 
-I also want to point out that many people who've tried hackintoshing this laptop had Broadwell (5th gen) CPUs. Mine also had dedicated GPU (see *specs*)
+I also want to point out that many people who've tried hackintoshing this laptop had Broadwell (5th gen) CPUs. Mine also had dedicated GPU *(see specs)*
 
 &nbsp;
 
 Specs
 ======
 **CPU:** Intel Core i3 4005U
+
 **iGPU:** Intel HD4400
+
 **dGPU:** AMD Radeon R5 330M
+
 **Network:** Realtek RTL8106E *(10/100😔)*
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Broadcom BCM43xx series (Don't really care, see *problems*)
+
 **RAM:** 4GB DDR3L *(Hopefully I'm gonna upgrade it soon)*
+
 **Audio:** Realtek ALC286
+
 **BIOS:** Insyde UEFI, vF.24
+
 **Board:** HP 80C4
+
 **HDD:** Toshiba MQ01ABF050 *(Note: Don't install macOS on 5400rpm drive, bad idea.)*
 
 &nbsp;
@@ -75,4 +89,4 @@ If you have same laptop as me, feel free to download Clover files *(Clover.zip)*
 
 Happy hackintoshing! 💙
 
-&nbps;
+<img src="https://raw.githubusercontent.com/hikkamorii/HP-250-G4-macOS/master/Photo.JPG" height="500px">
