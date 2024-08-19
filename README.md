@@ -1,3 +1,6 @@
+# ! This repository is discontinued due to having no relevance as of 2024 !
+I no longer have that laptop, and not interested in continuing to work on it in the first place.
+
 HP 250 G4 (Haswell) Hackintoshing
 ==================================
 
